@@ -1,0 +1,30 @@
+section{background-color:bisque}
+img{
+    width: 6cm;
+    height: 4cm;
+    margin: 100px;
+    padding: 0px;
+}  
+.header-1{
+    color: rgb(165, 106, 106);
+}
+.ball{
+    background-color: rgb(3, 21, 68);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#bouncing{
+   position:absolute ; 
+}
+
+body{
+    margin: o;
+    padding: o;
+    height: 100vh;
+    display :flex;
+    justify-content: stretch;
+    align-items: center;
+
+}

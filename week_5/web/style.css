@@ -1,0 +1,22 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+input[type="text"]{
+    padding: 8px;
+    font-size: 16px;
+    color: chocolate;
+}
+button{
+    padding: 8px;
+    font-size: 16px;
+    background-color:rgba(16, 16, 197, 0.822);
+    color:aliceblue;
+    cursor: crosshair;
+}
+button:hover{
+    background-color:rgb(201, 13, 13);
+}
